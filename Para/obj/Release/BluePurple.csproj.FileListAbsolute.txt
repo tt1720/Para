@@ -1,0 +1,11 @@
+C:\Users\ichim\source\repos\BluePurple\BluePurple\bin\Release\BluePurple.exe.config
+C:\Users\ichim\source\repos\BluePurple\BluePurple\bin\Release\BluePurple.exe
+C:\Users\ichim\source\repos\BluePurple\BluePurple\bin\Release\BluePurple.pdb
+C:\Users\ichim\source\repos\BluePurple\BluePurple\obj\Release\BluePurple.BluePurple.resources
+C:\Users\ichim\source\repos\BluePurple\BluePurple\obj\Release\BluePurple.Flashcard.resources
+C:\Users\ichim\source\repos\BluePurple\BluePurple\obj\Release\BluePurple.Paragraph.resources
+C:\Users\ichim\source\repos\BluePurple\BluePurple\obj\Release\BluePurple.Properties.Resources.resources
+C:\Users\ichim\source\repos\BluePurple\BluePurple\obj\Release\BluePurple.csproj.GenerateResource.cache
+C:\Users\ichim\source\repos\BluePurple\BluePurple\obj\Release\BluePurple.csproj.CoreCompileInputs.cache
+C:\Users\ichim\source\repos\BluePurple\BluePurple\obj\Release\BluePurple.exe
+C:\Users\ichim\source\repos\BluePurple\BluePurple\obj\Release\BluePurple.pdb
